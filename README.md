@@ -56,6 +56,12 @@ pip install numpy pandas scipy matplotlib
 ## 📈 Example Output
 
 Both scripts will produce annotated plots showing detected peaks. The Gaussian version also prints fitted parameters to the console.
+<img src="./Resonance Peak Detection.png" alt="Results" width="500"  title="Results">
+
+<img src="./Resonance Peak Detection_Gaussian.png" alt="Results" width="500"  title="Results_ Gaussian">
+
+- **Gaussian Fit Results**:
+<img src="./Result.PNG" alt="Results" width="500"  title="Gaussian Fit Results">
 
 ---
 
