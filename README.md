@@ -69,4 +69,4 @@ Both scripts will produce annotated plots showing detected peaks. The Gaussian v
 
 ## 📄 License
 
-This project is open-source under the MIT License.
+This project is open-source under the GNU General Public License v2.0 (GPL-2.0).
